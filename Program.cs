@@ -10,6 +10,7 @@
             nro1=int.Parse(Console.ReadLine());
             nro2 = int.Parse(Console.ReadLine());
             Console.Write(nro1 + nro2);
+            Console.WriteLine(nro1/nro2);
         }
     }
 }
