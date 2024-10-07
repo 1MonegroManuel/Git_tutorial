@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\GameDevelopment\\Unity\\GalaxyShooter2D_C 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65503820-1240-211B-AC48-B6C12F197183}|Assembly-CSharp.csproj|c:\\users\\manueldavidmonegrova\\universidad\\gamedevelopment\\unity\\galaxyshooter2d_c 2\\assets\\01_scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65503820-1240-211B-AC48-B6C12F197183}|Assembly-CSharp.csproj|solutionrelative:assets\\01_scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65503820-1240-211B-AC48-B6C12F197183}|Assembly-CSharp.csproj|C:\\Users\\ManuelDavidMonegroVa\\Universidad\\GameDevelopment\\Unity\\GalaxyShooter2D_C 2\\assets\\01_scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65503820-1240-211B-AC48-B6C12F197183}|Assembly-CSharp.csproj|solutionrelative:assets\\01_scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65503820-1240-211B-AC48-B6C12F197183}|Assembly-CSharp.csproj|C:\\Users\\ManuelDavidMonegroVa\\Universidad\\GameDevelopment\\Unity\\GalaxyShooter2D_C 2\\assets\\01_scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65503820-1240-211B-AC48-B6C12F197183}|Assembly-CSharp.csproj|solutionrelative:assets\\01_scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65503820-1240-211B-AC48-B6C12F197183}|Assembly-CSharp.csproj|C:\\Users\\ManuelDavidMonegroVa\\Universidad\\GameDevelopment\\Unity\\GalaxyShooter2D_C 2\\assets\\01_scripts\\enemyboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65503820-1240-211B-AC48-B6C12F197183}|Assembly-CSharp.csproj|solutionrelative:assets\\01_scripts\\enemyboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65503820-1240-211B-AC48-B6C12F197183}|Assembly-CSharp.csproj|C:\\Users\\ManuelDavidMonegroVa\\Universidad\\GameDevelopment\\Unity\\GalaxyShooter2D_C 2\\assets\\01_scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65503820-1240-211B-AC48-B6C12F197183}|Assembly-CSharp.csproj|solutionrelative:assets\\01_scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65503820-1240-211B-AC48-B6C12F197183}|Assembly-CSharp.csproj|C:\\Users\\ManuelDavidMonegroVa\\Universidad\\GameDevelopment\\Unity\\GalaxyShooter2D_C 2\\assets\\01_scripts\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65503820-1240-211B-AC48-B6C12F197183}|Assembly-CSharp.csproj|solutionrelative:assets\\01_scripts\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\GameDevelopment\\Unity\\GalaxyShooter2D_C 2\\Assets\\01_Scripts\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Scripts\\Spawner.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\GameDevelopment\\Unity\\GalaxyShooter2D_C 2\\Assets\\01_Scripts\\Spawner.cs",
+              "RelativeToolTip": "Assets\\01_Scripts\\Spawner.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAgwGkAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:21:03.798Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\GameDevelopment\\Unity\\GalaxyShooter2D_C 2\\Assets\\01_Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\GameDevelopment\\Unity\\GalaxyShooter2D_C 2\\Assets\\01_Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\01_Scripts\\Bullet.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:21:09.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PowerUp.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\GameDevelopment\\Unity\\GalaxyShooter2D_C 2\\Assets\\01_Scripts\\PowerUp.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Scripts\\PowerUp.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\GameDevelopment\\Unity\\GalaxyShooter2D_C 2\\Assets\\01_Scripts\\PowerUp.cs",
+              "RelativeToolTip": "Assets\\01_Scripts\\PowerUp.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:21:00.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\GameDevelopment\\Unity\\GalaxyShooter2D_C 2\\Assets\\01_Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\GameDevelopment\\Unity\\GalaxyShooter2D_C 2\\Assets\\01_Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\01_Scripts\\Player.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAAwEAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:20:57.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyBoss.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\GameDevelopment\\Unity\\GalaxyShooter2D_C 2\\Assets\\01_Scripts\\EnemyBoss.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Scripts\\EnemyBoss.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\GameDevelopment\\Unity\\GalaxyShooter2D_C 2\\Assets\\01_Scripts\\EnemyBoss.cs",
+              "RelativeToolTip": "Assets\\01_Scripts\\EnemyBoss.cs",
+              "ViewState": "AQIAAAABAAAAAAAAAAAiwAYBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:53:15.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\GameDevelopment\\Unity\\GalaxyShooter2D_C 2\\Assets\\01_Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\GameDevelopment\\Unity\\GalaxyShooter2D_C 2\\Assets\\01_Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\01_Scripts\\Enemy.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAowGgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:20:40.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
